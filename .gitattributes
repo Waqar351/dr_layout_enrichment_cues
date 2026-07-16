@@ -1,0 +1,22 @@
+# Normalize text files
+* text=auto
+
+# Source code
+*.py text eol=lf
+*.toml text eol=lf
+*.md text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+
+# Notebooks
+*.ipynb text
+
+# Images
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.svg text
+
+# PDFs
+*.pdf binary
