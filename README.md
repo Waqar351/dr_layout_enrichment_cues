@@ -33,9 +33,7 @@ The repository includes:
 - Reproducible notebooks used in the paper for complete results
 - Reproducibility script for Figure 5
 
-```markdown
 ## Representative Result for Replicability Evaluation
-```
 
 **Figure 5** of the paper was selected as the representative result for the replicability evaluation.
 
