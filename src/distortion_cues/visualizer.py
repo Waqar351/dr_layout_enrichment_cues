@@ -322,7 +322,7 @@ def plot_pairwise_cluster_distance_v2_custom_color(
         )
         plt.savefig(f"{output_file}.{save_format}", bbox_inches="tight", pad_inches=0)
         # plt.savefig(f"{output_file}.eps", format="eps", dpi=100, bbox_inches='tight')
-        plt.show()
+        # plt.show()
         plt.close()
     else:
         plt.show()
@@ -993,7 +993,7 @@ def plot_analysis_custom_color(
         
         plt.savefig(f"{file_path}.{save_format}")
         # plt.savefig(f"{file_path}.eps", format="eps", dpi=dpi)
-        plt.show()
+        # plt.show()
         plt.close()
     else:
         plt.show()
@@ -1342,7 +1342,7 @@ def plot_projection_custom_color(
         )
         plt.savefig(output_file, bbox_inches="tight")
         # plt.savefig(f"{output_file}.eps", format="eps", dpi=12000, bbox_inches='tight')
-        plt.show()
+        # plt.show()
         plt.close()
     else:
         plt.show()

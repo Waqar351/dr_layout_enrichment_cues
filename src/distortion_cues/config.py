@@ -148,6 +148,7 @@ DATASET_CONFIG = {
 
     "mnist": {
         "class_names": [str(i) for i in range(10)],
+        "colors": CUSTOM_COLORS,
         "border_thickness": 30,
         "fontsize": 15,
         "legend_dt_point_size": 700,
