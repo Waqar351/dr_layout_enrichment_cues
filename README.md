@@ -35,6 +35,7 @@ The repository includes:
 
 ```markdown
 ## Representative Result for Replicability Evaluation
+```
 
 **Figure 5** of the paper was selected as the representative result for the replicability evaluation.
 
