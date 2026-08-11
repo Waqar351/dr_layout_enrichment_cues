@@ -224,15 +224,19 @@ The representative reproduction procedure was tested using:
 
 ## Citation
 
-If you use this code in your research, please cite:
+If you use this code or paper in your research, please cite:
 
 ```bibtex
-@article{hassan6604227enriching,
-  title={Enriching Dimensionality Reduction with Distortion Cues},
-  author={Hassan, Waqar and Schlieder, Antonia and Sadlo, Filip and Nonato, Luis Gustavo},
-  journal={Available at SSRN 6604227}
-  doi={https://doi.org/10.2139/ssrn.6604227}
-  
+@article{HASSAN2026104724,
+title = {Enriching dimensionality reduction with distortion cues},
+journal = {Computers & Graphics},
+pages = {104724},
+year = {2026},
+issn = {0097-8493},
+doi = {https://doi.org/10.1016/j.cag.2026.104724},
+url = {https://www.sciencedirect.com/science/article/pii/S0097849326001950},
+author = {Waqar Hassan and Antonia Schlieder and Filip Sadlo and Luis Gustavo Nonato},
+keywords = {Dimensionality Reduction, Layout enrichment, Methodologies, Visual representation design, High-dimensional data}
 }
 ```
 
