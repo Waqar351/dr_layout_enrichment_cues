@@ -27,7 +27,7 @@ ENV/
 # Keep poetry.lock for applications.
 # For reusable libraries, many projects choose NOT to commit it.
 # Uncomment the next line if you don't want to track it.
-poetry.lock
+# poetry.lock
 
 # ============================================================================
 # Build / Distribution
@@ -116,6 +116,7 @@ Desktop.ini
 # ============================================================================
 
 *.txt
+*.pptx
 
 # ============================================================================
 # Generated Figures / Reports /results
